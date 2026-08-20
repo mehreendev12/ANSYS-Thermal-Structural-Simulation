@@ -1,3 +1,5 @@
+https://github.com/user-attachments/assets/24f6b404-a5fc-4555-96ec-2cdbba40be0a
+
 # Coupled Thermal-Structural FEA Simulation of Aluminum Alloy Beam
 
 This repository contains a one-way coupled **Thermal-Structural Finite Element Analysis (FEA)** performed in **ANSYS Workbench (Mechanical Enterprise)**. The simulation evaluates heat distribution across a solid rectangular beam and analyzes the resulting internal thermal stresses under rigid boundary constraints.
@@ -5,11 +7,12 @@ This repository contains a one-way coupled **Thermal-Structural Finite Element A
 ---
 
 ![ANSYS Simulation Preview](preview.png)
-![ANSYS Simulation Preview](Theramsl_Structural_Simulation.mp4)
 
 ---
 
 ## 📌 Project Overview
+
+
 
 When structural components undergo temperature changes while constrained, thermal expansion generates high internal stresses. This project models a two-part multiphysics pipeline:
 1. **Steady-State Thermal Analysis:** Solves for thermal equilibrium and temperature fields across the geometry.
