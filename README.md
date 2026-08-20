@@ -9,7 +9,6 @@ This repository contains a one-way coupled **Thermal-Structural Finite Element A
 ---
 
 ![ANSYS Simulation Preview](preview.png)
-![ANSYS Simulation Preview](Theramsl_Structural_Simulation.mp4)
 
 ---
 
